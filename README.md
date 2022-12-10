@@ -25,7 +25,10 @@ O site foi criado e montado de acordo com o que foi pedido.
 ## Fotos que comprovam que o trabalho foi feito sob minha autoria:
 
 <div align ="center">
-<img src="print do trabalho.png" width="700px" />]
+<img src="print do trabalho.png" width="700px" />
+</div>
+
+<div align ="center">
 <img src= "foto minha programando.jpg"  width="700px">
 </div>
 
