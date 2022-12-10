@@ -1,4 +1,8 @@
+<span align ="center">
+
 # Projeto Final 
+
+</span>
 
 Projeto final para o encerramento do primeiro módulo.
 
@@ -20,9 +24,16 @@ O site foi criado e montado de acordo com o que foi pedido.
 
 ## Fotos que comprovam que o trabalho foi feito sob minha autoria:
 
+<div align ="center">
+<img src="print do trabalho.png" width="700px" />]
+<img src= "IMG_20222124_173754209.jpg"  width="700px">
+</div>
 
-## agredecimentos
+
+
+## Agredecimentos
 
 >> [Diego Neri](https://github.com/diegoneri)
 
 >> [Ermogenes Palacio](https://github.com/ermogenes)
+
