@@ -6,7 +6,7 @@ Projeto desenvolvido com sucesso.
 
 O site foi criado e montado de acordo com o que foi pedido.
 
-# A Genética Mendeliana foi formada pelas principais formas:
+## A Genética Mendeliana foi formada pelas principais formas:
 
 >>Calcular o Genes Recessivo
 
@@ -18,5 +18,11 @@ O site foi criado e montado de acordo com o que foi pedido.
 >>Funsão dos Genes
 
 
-# Fotos que comprovam que o trabalho foi feito sob minha autoria:
+## Fotos que comprovam que o trabalho foi feito sob minha autoria:
 
+
+## agredecimentos
+
+>> [Diego Neri](https://github.com/diegoneri)
+
+>> [Ermogenes Palacio](https://github.com/ermogenes)
