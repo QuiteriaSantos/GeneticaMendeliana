@@ -20,7 +20,7 @@ O site foi criado e montado de acordo com o que foi pedido.
 
 # Fotos que comprovam que o trabalho foi feito sob minha autoria:
 
-## agredecimentos
+## Agradecimentos
 
 >> [Diego Neri](https://github.com/diegoneri)
 
@@ -29,4 +29,4 @@ O site foi criado e montado de acordo com o que foi pedido.
 
 #Build settings
 markdown: Kramdown
-remote_theme: Time machine
+theme: Time machine
