@@ -26,7 +26,7 @@ O site foi criado e montado de acordo com o que foi pedido.
 
 <div align ="center">
 <img src="print do trabalho.png" width="700px" />]
-<img src= "IMG_20222124_173754209.jpg"  width="700px">
+<img src= "foto minha programando.jpg"  width="700px">
 </div>
 
 
